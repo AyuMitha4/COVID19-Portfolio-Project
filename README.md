@@ -1,7 +1,7 @@
 # COVID19-Portfolio-Project
 
 ## Business Task:
-   Analysing Asia COVID-19 data using SQL Server. 
+   Analysing Asia COVID-19. 
 	
 ## Data Source:
    Covid 19 dataset from 1 Jan 2020 to 11 Dec 2022 downloaded from [Our World in Data](https://ourworldindata.org/covid-cases) website.
